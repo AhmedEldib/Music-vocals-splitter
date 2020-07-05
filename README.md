@@ -1,6 +1,3 @@
-### Name: Ahmed Tarek Mohamed Reda Eldib
-
-### ID: 11700508
 
 -----------------
 
