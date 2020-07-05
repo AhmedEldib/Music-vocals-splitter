@@ -1,4 +1,4 @@
-
+### This is a Vocals-music splitter gui made using PyQt5 and using sklearn FastICA Algorithm
 -----------------
 
 To start app, click on the menu button in the toolbar and click import. The song must be .wav, and both stereo and mono are acceptable.
